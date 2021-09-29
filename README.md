@@ -7,7 +7,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-Java" height="35" width="40" img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png">
+  <img align="center" alt="Yuri-Java" height="45" width="45" img src= "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-C++" height="35" width="35" img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
