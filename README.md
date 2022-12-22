@@ -13,6 +13,10 @@
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-NestJS" height="35" width="35" img src="https://img.icons8.com/color/48/null/nestjs.png">
   <img align="center" alt="Yuri-React" height="35" width="35" img src="https://img.icons8.com/ultraviolet/40/null/react--v1.png">
+  <img align="center" alt="Yuri-Spring" height="35" width="35" img src="https://img.icons8.com/color/48/null/spring-logo.png">
+   <img align="center" alt="Yuri-MySQL" height="35" width="35" img src="https://img.icons8.com/fluency/48/null/mysql-logo.png">
+   <img align="center" alt="Yuri-PHP" height="35" width="35" img src="https://img.icons8.com/officel/16/null/php-logo.png">
+   <img align="center" alt="Yuri-Python" height="35" width="35" img src="https://img.icons8.com/fluency/48/null/python.png">
   </div>
  
  ##
