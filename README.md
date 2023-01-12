@@ -1,10 +1,10 @@
-## Olá! Eu sou Yuri Monteiro 
- <div>
-  <a href="https://github.com/YuriMont">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=demo&langs_count=7&theme=tokyonight"/>
-  
-</div>
+## Olá! Eu sou Yuri Monteiro
+* Desenvolvedor web junior
+* Desenvolvedor Backend Java e TypeScript
+* Desenvolvedor Frontend React
+* Técnico em informática
+* Perito em sistemas Linux
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Yuri-React" height="35" width="35" img src="https://img.icons8.com/color/48/null/typescript.png">
