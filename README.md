@@ -19,7 +19,10 @@
    <img align="center" alt="Yuri-Python" height="35" width="35" img src="https://img.icons8.com/fluency/48/null/python.png">
   </div>
  
- ##
+ ## My skills
+ ![Node.JS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+ 
+## 
  
 <div> 
  
