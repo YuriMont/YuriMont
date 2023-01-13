@@ -1,9 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F000F7&width=435&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=false&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
