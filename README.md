@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
