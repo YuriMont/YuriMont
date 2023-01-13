@@ -4,8 +4,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## ALL SKILLS
   <div style="display: inline_block"><br>
+  <h1> ALL SKILLS </h1>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Yuri-React" height="35" width="35" img src="https://img.icons8.com/color/48/null/typescript.png">
   <img align="center" alt="Yuri-Java" height="45" width="45" img src= "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png">
