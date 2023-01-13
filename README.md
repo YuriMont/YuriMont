@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F000F7&width=435&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriMont)](https://github.com/anuraghazra/github-readme-stats)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=dracula&count_private=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## My skills
   <div style="display: inline_block"><br>
-  <h1> ALL SKILLS </h1>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Yuri-React" height="35" width="35" img src="https://img.icons8.com/color/48/null/typescript.png">
   <img align="center" alt="Yuri-Java" height="45" width="45" img src= "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png">
