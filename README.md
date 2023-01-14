@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=435&height=100&size=50&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=900&height=100&size=40&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
 ## 🌱 Github starts:
 <div>
