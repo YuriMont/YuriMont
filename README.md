@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=435&height=100&size=50&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
-## GitHub Stats Card
-[![YuriMont's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=tokyonight)](https://github.com/YuriMont)
-
-## Most Used Languages Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&theme=tokyonight)](https://github.com/YuriMont)
+## Github starts
+<div>
+  <a href="https://github.com/thidoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&langs_count=7&theme=react"/>
+</div>
+ 
 
 ## Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -26,6 +28,13 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+ 
+ ## My social medias
+ [![Blog](https://img.shields.io/website?label=personal-portfolio-yuri-monteiro.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://personal-portfolio-yuri-monteiro.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monteiro-5b6b48205/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yuri_monteiro1043)
+
+
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
