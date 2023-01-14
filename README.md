@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=435&height=100&size=50&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
-## Github starts
+## 🌱 Github starts:
 <div>
   <a href="https://github.com/YuriMont">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -10,12 +10,12 @@
 </div>
  
 
-## Contribution Graph
+## 📈 Contribution Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
- ## My skills
+ ## 💻 Skills:
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -29,7 +29,7 @@
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
  
- ## My social medias
+ ## 🌐 Socials:
  [![Blog](https://img.shields.io/website?label=personal-portfolio-yuri-monteiro.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://personal-portfolio-yuri-monteiro.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monteiro-5b6b48205/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yuri_monteiro1043)
