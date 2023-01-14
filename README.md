@@ -1,12 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=435&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00bfbf&pause=1000&width=435&height=100&size=50&lines=HELLO!+My+name+is+Yuri+Monteiro;I'm+Computer+Technician+;Full+Stack+developer;Linux+systems+expert;Be+welcome!)](https://git.io/typing-svg)
 
+## GitHub Stats Card
+[![YuriMont's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=tokyonight)](https://github.com/YuriMont)
+
+## Most Used Languages Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&theme=tokyonight)](https://github.com/YuriMont)
+
+## Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriMont&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
- ## Main skills
+ ## My skills
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -20,13 +27,5 @@
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
  
- 
-## 
- 
-<div> 
- 
-  ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
