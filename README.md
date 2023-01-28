@@ -4,9 +4,11 @@
 
 ## 🌱 Github starts:
 <div>
-  <a href="https://github.com/YuriMont">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriMont&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&layout=compact&langs_count=7&theme=react"/>
+  
+![YURIMONT](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuriMont&theme=react)&nbsp;
+  <br>
+![YURIMONT](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMont&theme=react)&nbsp;
+  
 </div>
  
 
