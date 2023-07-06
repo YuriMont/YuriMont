@@ -1,6 +1,12 @@
 
   <h1 align="center">👋 Hey there! I'm Yuri Monteiro, and I'd like to extend a warm welcome to my GitHub profile.</h1>
 
+## 🧑‍💻 About me:
+* 🚀 I'm seeking an opportunity to work as a full stack developer.
+* 💻 I have experience in server development and mobile and web application development.
+* 💪 I'm always looking for new challenges to enhance my skills.
+* 🤝 I'm adept at working in teams and learning quickly.
+
 ## 🌱 Github starts:
 <div>
   
