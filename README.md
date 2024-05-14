@@ -36,7 +36,7 @@
  
  ## 🌐 Socials:
  [![Blog](https://img.shields.io/website?label=yuri-monteiro.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://yuri-monteiro-portfolio.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monteiro-5b6b48205/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monteiro-dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yuri_monteiro1043)
 
 
